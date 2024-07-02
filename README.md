@@ -1,2 +1,2 @@
-# JAVA-practice
+# JAVA-practice-patter
 revision for loop
